@@ -1,1 +1,1 @@
-# Jewels..github.io
+# Jewels.github.io
